@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
 OpenIDE-Module-Name: my force plugin
-OpenIDE-Module-Short-Description: an improved algorithm[D[D[D[D[D[D[D[D[D[D[D[D[C[C[CFR algorithm
+OpenIDE-Module-Short-Description: an improved algorithmalgorithm
 OpenIDE-Module-Long-Description: an improved FR algorithm
 OpenIDE-Module-Display-Category: Layout

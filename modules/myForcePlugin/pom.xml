@@ -11,11 +11,30 @@
     <artifactId>my-plugin</artifactId>
     <version>1.0.0</version>
     <packaging>nbm</packaging>
-
+    
     <name>my force plugin</name>
-
+    
     <dependencies>
-        <!-- Insert dependencies here -->
+        <dependency>
+            <groupId>org.netbeans.api</groupId>
+            <artifactId>org-openide-util</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.gephi</groupId>
+            <artifactId>graph-api</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.gephi</groupId>
+            <artifactId>layout-api</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.gephi</groupId>
+            <artifactId>ui-propertyeditor</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.gephi</groupId>
+            <artifactId>layout-plugin</artifactId>
+        </dependency>
     </dependencies>
 
     <build>
